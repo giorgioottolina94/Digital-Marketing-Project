@@ -1,1 +1,1 @@
-# Digital-Marketing-Project
+# Email Engagement, RFM and Customers Segmentation
